@@ -1,5 +1,5 @@
 # 铭瑄MAXSUN MS-挑战者B660M + Inter i5-12400f
-
+[github链接](https://github.com/Custardtart77/MacOs_MAXSUN-MS-B660M-i5-12400F)
 
 ## 配置
 
